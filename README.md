@@ -366,7 +366,7 @@ Follow the conventional commits specification:
 - **Documentation**: Check this README and inline code comments
 - **Issues**: Report bugs and request features on GitHub Issues
 - **Discussions**: Join community discussions on GitHub Discussions
-- **Email**: Contact us at support@techwipro.com
+- **Email**: Contact us at techwipro@techwipro.com
 
 ### FAQ
 
